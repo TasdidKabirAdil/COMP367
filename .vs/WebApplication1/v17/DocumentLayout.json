@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#1\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B043C6CA-57A5-4E11-AD84-F25955BFCA0D}|WebApplication1\\WebApplication1.csproj|c:\\users\\reaper\\documents\\study material\\semester 6\\comp367_001\\lab#1\\webapplication1\\webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B043C6CA-57A5-4E11-AD84-F25955BFCA0D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B043C6CA-57A5-4E11-AD84-F25955BFCA0D}|WebApplication1\\WebApplication1.csproj|c:\\users\\reaper\\documents\\study material\\semester 6\\comp367_001\\lab#1\\webapplication1\\webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B043C6CA-57A5-4E11-AD84-F25955BFCA0D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B043C6CA-57A5-4E11-AD84-F25955BFCA0D}|WebApplication1\\WebApplication1.csproj|c:\\users\\reaper\\documents\\study material\\semester 6\\comp367_001\\lab#1\\webapplication1\\webapplication1\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B043C6CA-57A5-4E11-AD84-F25955BFCA0D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B043C6CA-57A5-4E11-AD84-F25955BFCA0D}|WebApplication1\\WebApplication1.csproj|c:\\users\\reaper\\documents\\study material\\semester 6\\comp367_001\\lab#1\\webapplication1\\webapplication1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{B043C6CA-57A5-4E11-AD84-F25955BFCA0D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B043C6CA-57A5-4E11-AD84-F25955BFCA0D}|WebApplication1\\WebApplication1.csproj|c:\\users\\reaper\\documents\\study material\\semester 6\\comp367_001\\lab#1\\webapplication1\\webapplication1\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B043C6CA-57A5-4E11-AD84-F25955BFCA0D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B043C6CA-57A5-4E11-AD84-F25955BFCA0D}|WebApplication1\\WebApplication1.csproj|c:\\users\\reaper\\documents\\study material\\semester 6\\comp367_001\\lab#1\\webapplication1\\webapplication1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B043C6CA-57A5-4E11-AD84-F25955BFCA0D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B043C6CA-57A5-4E11-AD84-F25955BFCA0D}|WebApplication1\\WebApplication1.csproj|c:\\users\\reaper\\documents\\study material\\semester 6\\comp367_001\\lab#1\\webapplication1\\webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B043C6CA-57A5-4E11-AD84-F25955BFCA0D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B043C6CA-57A5-4E11-AD84-F25955BFCA0D}|WebApplication1\\WebApplication1.csproj|c:\\users\\reaper\\documents\\study material\\semester 6\\comp367_001\\lab#1\\webapplication1\\webapplication1\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B043C6CA-57A5-4E11-AD84-F25955BFCA0D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B043C6CA-57A5-4E11-AD84-F25955BFCA0D}|WebApplication1\\WebApplication1.csproj|c:\\users\\reaper\\documents\\study material\\semester 6\\comp367_001\\lab#1\\webapplication1\\webapplication1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B043C6CA-57A5-4E11-AD84-F25955BFCA0D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +42,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#1\\WebApplication1\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#1\\WebApplication1\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T20:49:36.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#1\\WebApplication1\\WebApplication1\\.gitignore",
+              "RelativeDocumentMoniker": "WebApplication1\\.gitignore",
+              "ToolTip": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#1\\WebApplication1\\WebApplication1\\.gitignore",
+              "RelativeToolTip": "WebApplication1\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-27T20:11:28.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Privacy.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#1\\WebApplication1\\WebApplication1\\Pages\\Privacy.cshtml.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Pages\\Privacy.cshtml.cs",
@@ -47,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#1\\WebApplication1\\WebApplication1\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Pages\\Privacy.cshtml",
@@ -60,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#1\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Pages\\Index.cshtml.cs",
@@ -68,12 +102,11 @@
               "RelativeToolTip": "WebApplication1\\Pages\\Index.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T20:03:22.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T20:03:22.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Reaper\\Documents\\Study Material\\Semester 6\\COMP367_001\\Lab#1\\WebApplication1\\WebApplication1\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Pages\\Index.cshtml",
