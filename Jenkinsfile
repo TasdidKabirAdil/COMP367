@@ -5,7 +5,7 @@
         // Stage 1: Checkout code
         stage('Checkout') {
             steps {
-                git 'https://github.com/YOUR_USERNAME/comp367-webapp.git'
+                git 'https://github.com/TasdidKabirAdil/COMP367.git'
             }
         }
 
