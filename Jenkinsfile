@@ -12,7 +12,14 @@ pipeline {
         // Stage 2: Build the project
         stage('Build') {
             steps {
-                bat 'mvn clean package'
+                bat 'dotnet build'
+            }
+        }
+
+        // Stage 3: Publish the project
+        stage('Publish') {
+            steps {
+                bat 'dotnet publish -c Release -o ./publish'
             }
         }
     }
